@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "marcelstange",
+  "repo": "container-bj4rwgm",
+  "name": "marcelstange",
+  "email": "marcel.monteiro.oliveira@gmail.com",
+}
